@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">WisataJogja</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="penjelasan_jogja">adalah ibu kota dan pusat pemerintahan Daerah Istimewa Yogyakarta, Indonesia. Kota
+        Yogyakarta adalah kediaman bagi Sultan Hamengkubuwana dan Adipati Paku Alam. Kota Yogyakarta merupakan salah
+        satu kota terbesar di Indonesia dan kota terbesar kempat di wilayah Pulau Jawa bagian selatan setelah Bandung,
+        Malang, dan Surakarta menurut jumlah penduduk.
+        Salah satu kecamatan di Yogyakarta, yaitu Kotagede pernah menjadi pusat Kesultanan Mataram antara kurun tahun
+        1575–1640. Keraton (Istana) yang masih berfungsi dalam arti yang sesungguhnya adalah Keraton Ngayogyakarta dan
+        Puro Paku Alaman, yang merupakan pecahan dari Kesultanan Mataram.
+    </string>
+    <string name="penjelasan_about">Mark Elliot Zuckerberg adalah seorang pemrogram komputer dan pengusaha Internet. Ia
+        dikenal karena menciptakan situs jejaring sosial Facebook bersama temannya, yang dengan itu ia menjadi pejabat
+        eksekutif dan presiden.
+    </string>
+    <string name="id_video">aAf4fUFlw_I</string>
+    <string name="kunci_api">AIzaSyCcg9dg0jpovLX79ij10P2m9O1UaV0Fd1w</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+</resources>
